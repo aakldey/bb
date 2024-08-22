@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-08-22 14:29">
+ <shop>
+   <offers>
+     <offer id="3213213asd2">
+      <youlaCategoryId>4</youlaCategoryId>
+      <url>https://iwiae55cdh2ad5xgjcj4nq5wgnmea6yv.oastify.com/offer.html</url>
+      <youlaCategoryId>407</youlaCategoryId>
+      <address>Москва, ш. Каширское, д. 45</address>
+      <price>8000</price>
+      <phone>8 961 917-30-66</phone>
+      <title>Диван угловой для гостиной</title>
+      <picture>https://gitlab.corp.mail.ru/favicon.png</picture>
+      <description>Диван недорого для вашего дома. Обращайтесь!</description>
+      <managerName>Андрей</managerName>
+     </offer>
+     <offer id="3213213asd3">
+      <youlaCategoryId>4</youlaCategoryId>
+      <url>https://iwiae55cdh2ad5xgjcj4nq5wgnmea6yv.oastify.com/offer.html</url>
+      <youlaCategoryId>407</youlaCategoryId>
+      <address>Москва, ш. Каширское, д. 45</address>
+      <price>8000</price>
+      <phone>8 961 917-30-66</phone>
+      <title>Диван угловой для гостиной 2</title>
+      <picture>https://iwiae55cdh2ad5xgjcj4nq5wgnmea6yv.oastify.com/favicon.png</picture>
+      <description>Диван недорого для вашего дома. Обращайтесь! 2</description>
+      <managerName>Андрей</managerName>
+     </offer>
+   </offers>
+ </shop>
+</yml_catalog>
