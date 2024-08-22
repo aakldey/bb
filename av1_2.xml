@@ -1,0 +1,40 @@
+<Ads formatVersion="3" target="Avito.ru">
+	<Ad>
+		<Address>test</Address>
+		<Latitude>23</Latitude>
+		<Longitude>34</Longitude>
+		<ContactMethod>34</ContactMethod>
+		<Id>123213123</Id>
+		<DateBegin></DateBegin>
+		<DateEnd></DateEnd>
+		<ListingFee>1</ListingFee>
+		<AdStatus>1</AdStatus>
+		<AvitoId>1</AvitoId>
+		<ManagerName>1</ManagerName>
+		<ContactPhone>79003002342</ContactPhone>
+		<Addresses>323</Addresses>
+		<DeliveryAddresses>32323</DeliveryAddresses>
+		<Category>32323</Category>
+		<Description>543534</Description>
+		<Price>123</Price>
+		<DisplayAreas>4234</DisplayAreas>
+		<Images>
+			<Image url="https://7gozyup1x6mzxuh5313t7fpl0c63uuij.oastify.com/test1.png"/>
+		</Images>
+		<VideoURL></VideoURL>
+		<Title>111</Title>
+		<TypeId>1</TypeId>
+		<InternetCalls>1</InternetCalls>
+		<CallsDevices>1</CallsDevices>
+		<Delivery></Delivery>
+		<WeightForDelivery></WeightForDelivery>
+		<LengthForDelivery></LengthForDelivery>
+		<HeightForDelivery></HeightForDelivery>
+		<WidthForDelivery></WidthForDelivery>
+		<VideoFileURL></VideoFileURL>
+		<GoodsType></GoodsType>
+		<AdType></AdType>
+		<Condition></Condition>
+		<HindcarriageType></HindcarriageType>
+	</Ad>
+</Ads>
