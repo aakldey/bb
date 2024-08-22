@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE replace [<!ENTITY example "Doe"> ]>
 <yml_catalog date="2024-08-22 14:29">
  <shop>
    <offers>
@@ -10,7 +11,7 @@
       <price>8000</price>
       <phone>8 961 917-30-66</phone>
       <title>Диван угловой для гостиной</title>
-      <picture>https://gitlab.corp.mail.ru/favicon.png</picture>
+      <picture>file:///etc/passwd</picture>
       <description>Диван недорого для вашего дома. Обращайтесь!</description>
       <managerName>Андрей</managerName>
      </offer>
@@ -22,8 +23,8 @@
       <price>8000</price>
       <phone>8 961 917-30-66</phone>
       <title>Диван угловой для гостиной 2</title>
-      <picture>https://iwiae55cdh2ad5xgjcj4nq5wgnmea6yv.oastify.com/favicon.png</picture>
-      <description>Диван недорого для вашего дома. Обращайтесь! 2</description>
+      <picture>https://png.pngtree.com/png-vector/20221217/ourmid/pngtree-example-sample-grungy-stamp-vector-png-image_15560590.png</picture>
+      <description>Диван недорого для вашего дома. &example; Обращайтесь! 2</description>
       <managerName>Андрей</managerName>
      </offer>
    </offers>
